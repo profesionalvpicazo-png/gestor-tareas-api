@@ -107,3 +107,4 @@ Los tests usan una base de datos SQLite en memoria con `StaticPool` para garanti
 
 ### Nuevos endpoints
 - Todos los endpoints nuevos deben incluir al menos un test de caso error además del happy path obligatoriamente.
+
